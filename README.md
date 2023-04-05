@@ -1,5 +1,5 @@
 # AI-Jump
-Self developed game with Python using Pygame and NEAT librady to build an IA to lear how to play the game
+Self developed game with Python on Pycharm using Pygame and NEAT librady to build an IA to lear how to play the game
 
 ## Personal Project
 
